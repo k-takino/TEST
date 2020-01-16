@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 02:22:55</sys_created_on>
+        <sys_id>ddd81e30db9200104006f26b6896199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_375644_marketing_marketing_event.x_375644_marketing.marketing_event_user</sys_name>
+        <sys_package display_value="Marketing Event (test)" source="x_375644_marketing">86fe4a74db5200104006f26b689619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event (test)">86fe4a74db5200104006f26b689619ae</sys_scope>
+        <sys_security_acl display_value="x_375644_marketing_marketing_event">d9d81e30db9200104006f26b68961997</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ddd81e30db9200104006f26b6896199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 02:22:55</sys_updated_on>
+        <sys_user_role display_value="x_375644_marketing.marketing_event_user" name="x_375644_marketing.marketing_event_user">b8d89230db9200104006f26b6896194a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

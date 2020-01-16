@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_375644_marketing_marketing_event" version="2" view="SampleView">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>fb278fbcdb1600104006f26b689619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>attendees_expected</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>7f278fbcdb1600104006f26b689619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>attendees_registered</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>ff278fbcdb1600104006f26b689619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>budget</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>73278fbcdb1600104006f26b689619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>f3278fbcdb1600104006f26b689619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>77278fbcdb1600104006f26b689619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>f7278fbcdb1600104006f26b689619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_375644_marketing_marketing_event" element="NULL" name="x_375644_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="2303c7b8db1600104006f26b68961911">37278fbcdb1600104006f26b689619ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:45:25</sys_created_on>
+            <sys_id>7b278fbcdb1600104006f26b689619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:45:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_375644_marketing_marketing_event</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 05:28:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa334bb8db1600104006f26b689619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_375644_marketing_marketing_event</sys_name>
+            <sys_package display_value="Marketing Event (test)" source="x_375644_marketing">86fe4a74db5200104006f26b689619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event (test)">86fe4a74db5200104006f26b689619ae</sys_scope>
+            <sys_update_name>sys_ui_list_x_375644_marketing_marketing_event_SampleView</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 05:28:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="sampleview" name="SampleView">2303c7b8db1600104006f26b68961911</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

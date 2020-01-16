@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="budget" label="Budget" language="en" table="x_375644_marketing_marketing_event">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>budget</element>
+            <help/>
+            <hint/>
+            <label>Budget</label>
+            <language>en</language>
+            <name>x_375644_marketing_marketing_event</name>
+            <plural>Budgets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 02:27:21</sys_created_on>
+            <sys_id>92d95e70db9200104006f26b6896199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Budget</sys_name>
+            <sys_package display_value="Marketing Event (test)" source="x_375644_marketing">86fe4a74db5200104006f26b689619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event (test)">86fe4a74db5200104006f26b689619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_375644_marketing_marketing_event_budget_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 02:27:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

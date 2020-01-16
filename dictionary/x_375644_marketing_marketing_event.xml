@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Marketing Event" max_length="40" name="x_375644_marketing_marketing_event" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Attendees Expected" max_length="10" name="attendees_expected" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Attendees Registered" max_length="10" name="attendees_registered" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Budget" max_length="12" name="budget" type="currency"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="City" max_length="40" name="city" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" default="Tokyo" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Saitama" sequence="0" value="Saitama"/>
+                <element inactive_on_update="false" label="Chiba" sequence="1" value="Chiba"/>
+                <element inactive_on_update="false" label="Ishikawa" sequence="2" value="Ishikawa"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Test" max_length="80" name="u_m_test" type="string"/>
+    </element>
+</database>
